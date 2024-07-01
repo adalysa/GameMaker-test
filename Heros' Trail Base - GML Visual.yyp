@@ -80,6 +80,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
     {"id":{"name":"obj_sound_loop","path":"objects/obj_sound_loop/obj_sound_loop.yy",},},
+    {"id":{"name":"obj_sword_attack","path":"objects/obj_sword_attack/obj_sword_attack.yy",},},
     {"id":{"name":"obj_torch_glow","path":"objects/obj_torch_glow/obj_torch_glow.yy",},},
     {"id":{"name":"path_default","path":"paths/path_default/path_default.yy",},},
     {"id":{"name":"path_enemy_1","path":"paths/path_enemy_1/path_enemy_1.yy",},},

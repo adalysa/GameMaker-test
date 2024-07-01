@@ -26,6 +26,7 @@
     {"name":"obj_pillar_whole","order":8,"path":"objects/obj_pillar_whole/obj_pillar_whole.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_sound_loop","order":5,"path":"objects/obj_sound_loop/obj_sound_loop.yy",},
+    {"name":"obj_sword_attack","order":3,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
     {"name":"path_enemy_2","order":1,"path":"paths/path_enemy_2/path_enemy_2.yy",},
     {"name":"path_enemy_3","order":2,"path":"paths/path_enemy_3/path_enemy_3.yy",},
     {"name":"rm_level_2","order":1,"path":"rooms/rm_level_2/rm_level_2.yy",},
