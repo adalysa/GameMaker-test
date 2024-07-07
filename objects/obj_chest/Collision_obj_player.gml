@@ -24,8 +24,9 @@ if (l50092056_0)
 	/// @DnDHash : 759408DF
 	/// @DnDParent : 50092056
 	/// @DnDArgument : "expr" "50"
+	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "obj_player.coins"
-	obj_player.coins = 50;
+	obj_player.coins += 50;
 
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
