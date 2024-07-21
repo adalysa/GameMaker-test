@@ -1,3 +1,17 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2FAE4A78
+/// @DnDArgument : "var" "locked"
+/// @DnDArgument : "value" "true"
+if(locked == true)
+{
+	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 4051B901
+	/// @DnDParent : 2FAE4A78
+	exit;
+}
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
 /// @DnDHash : 50092056
@@ -23,10 +37,10 @@ if (l50092056_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 759408DF
 	/// @DnDParent : 50092056
-	/// @DnDArgument : "expr" "50"
+	/// @DnDArgument : "expr" "coins_to_give"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "obj_player.coins"
-	obj_player.coins += 50;
+	obj_player.coins += coins_to_give;
 
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1

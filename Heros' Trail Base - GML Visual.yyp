@@ -54,7 +54,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Heros' Trail Base - GML Visual",
   "resources":[
@@ -73,6 +73,7 @@
     {"id":{"name":"obj_editor_wall","path":"objects/obj_editor_wall/obj_editor_wall.yy",},},
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_gate_particles","path":"objects/obj_gate_particles/obj_gate_particles.yy",},},
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
     {"id":{"name":"obj_menu_manager","path":"objects/obj_menu_manager/obj_menu_manager.yy",},},
     {"id":{"name":"obj_pillar_fallen","path":"objects/obj_pillar_fallen/obj_pillar_fallen.yy",},},
