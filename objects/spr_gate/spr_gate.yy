@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gate",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"spr_gate",
+  "eventList":[],
   "managed":true,
-  "name":"obj_gate",
+  "name":"spr_gate",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
-    "path":"folders/Objects/Level.yy",
+    "path":"folders/Sprites/Level.yy",
   },
   "parentObjectId":{
     "name":"obj_collision_parent",
