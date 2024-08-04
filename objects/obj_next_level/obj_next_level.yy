@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object27",
-  "eventList":[],
+  "%Name":"obj_next_level",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object27",
+  "name":"obj_next_level",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_next_level",
+    "path":"sprites/spr_next_level/spr_next_level.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
