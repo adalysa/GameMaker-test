@@ -23,3 +23,14 @@ var seq_layer = layer_create(depth);
 /// @DnDArgument : "layer" "seq_layer"
 /// @DnDSaveInfo : "sequenceid" "seq_baddie_defeat"
 layer_sequence_create(seq_layer, x + 0, y + 0, seq_baddie_defeat);
+
+/// @DnDAction : YoYo Games.Particles.Effect
+/// @DnDVersion : 1
+/// @DnDHash : 5DF9F4F6
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "type" "5"
+/// @DnDArgument : "where" "1"
+/// @DnDArgument : "size" "1"
+/// @DnDArgument : "color" "$FF482F8C"
+effect_create_above(5, x + 0, y + 0, 1, $FF482F8C & $ffffff);
