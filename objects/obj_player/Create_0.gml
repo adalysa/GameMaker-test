@@ -1,5 +1,16 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 20A4B229
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr_1" "max_hearts"
+/// @DnDArgument : "var" "max_hearts"
+/// @DnDArgument : "var_1" "hearts"
+max_hearts = 4;
+hearts = max_hearts;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 4D7FF0B7
 /// @DnDComment : This variable is called$(13_10)move_speed and stores$(13_10)the movement speed of the$(13_10)player. The speed is in$(13_10)pixels-per-second.
 /// @DnDArgument : "expr" "4"

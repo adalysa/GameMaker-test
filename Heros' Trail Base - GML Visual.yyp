@@ -64,6 +64,7 @@
     {"id":{"name":"obj_baddie","path":"objects/obj_baddie/obj_baddie.yy",},},
     {"id":{"name":"obj_barrel_big","path":"objects/obj_barrel_big/obj_barrel_big.yy",},},
     {"id":{"name":"obj_barrel_small","path":"objects/obj_barrel_small/obj_barrel_small.yy",},},
+    {"id":{"name":"obj_bat_projectile_splatter","path":"objects/obj_bat_projectile_splatter/obj_bat_projectile_splatter.yy",},},
     {"id":{"name":"obj_bat_projectile","path":"objects/obj_bat_projectile/obj_bat_projectile.yy",},},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},

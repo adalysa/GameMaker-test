@@ -13,6 +13,7 @@
     {"name":"Template_Readme","order":14,"path":"notes/Template_Readme/Template_Readme.yy",},
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
     {"name":"obj_barrel_small","order":1,"path":"objects/obj_barrel_small/obj_barrel_small.yy",},
+    {"name":"obj_bat_projectile_splatter","order":4,"path":"objects/obj_bat_projectile_splatter/obj_bat_projectile_splatter.yy",},
     {"name":"obj_bat_projectile","order":3,"path":"objects/obj_bat_projectile/obj_bat_projectile.yy",},
     {"name":"obj_bat","order":2,"path":"objects/obj_bat/obj_bat.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
