@@ -23,7 +23,10 @@
     "name":"Game",
     "path":"folders/Objects/Game.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_manager",
+    "path":"objects/obj_manager/obj_manager.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
