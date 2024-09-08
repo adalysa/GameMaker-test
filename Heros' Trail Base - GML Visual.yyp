@@ -54,7 +54,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"Heros' Trail Base - GML Visual",
   "resources":[
@@ -77,6 +77,7 @@
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_gate_particles","path":"objects/obj_gate_particles/obj_gate_particles.yy",},},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
+    {"id":{"name":"obj_heart_pickup","path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"obj_lever","path":"objects/obj_lever/obj_lever.yy",},},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
@@ -86,6 +87,7 @@
     {"id":{"name":"obj_pillar_half","path":"objects/obj_pillar_half/obj_pillar_half.yy",},},
     {"id":{"name":"obj_pillar_whole","path":"objects/obj_pillar_whole/obj_pillar_whole.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
+    {"id":{"name":"obj_player_defeated","path":"objects/obj_player_defeated/obj_player_defeated.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
     {"id":{"name":"obj_sound_loop","path":"objects/obj_sound_loop/obj_sound_loop.yy",},},
