@@ -29,3 +29,17 @@ coins = 0;
 /// @DnDHash : 18BA0DB2
 /// @DnDArgument : "var" "input_direction"
 input_direction = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 511B458B
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "powerup_active"
+powerup_active = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 587AD8F6
+/// @DnDArgument : "expr" "move_speed"
+/// @DnDArgument : "var" "default_move_speed"
+default_move_speed = move_speed;

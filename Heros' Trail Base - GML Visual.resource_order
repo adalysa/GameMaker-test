@@ -35,6 +35,7 @@
     {"name":"obj_pillar_half","order":7,"path":"objects/obj_pillar_half/obj_pillar_half.yy",},
     {"name":"obj_pillar_whole","order":8,"path":"objects/obj_pillar_whole/obj_pillar_whole.yy",},
     {"name":"obj_player_defeated","order":4,"path":"objects/obj_player_defeated/obj_player_defeated.yy",},
+    {"name":"obj_powerup_speed","order":3,"path":"objects/obj_powerup_speed/obj_powerup_speed.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_sound_loop","order":5,"path":"objects/obj_sound_loop/obj_sound_loop.yy",},
     {"name":"obj_sword_attack","order":3,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
