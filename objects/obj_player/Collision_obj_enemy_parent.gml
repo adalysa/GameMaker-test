@@ -1,5 +1,43 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 44CAC0B4
+/// @DnDArgument : "var" "star_powerup_active"
+/// @DnDArgument : "value" "true"
+if(star_powerup_active == true){	/// @DnDAction : YoYo Games.Common.Apply_To
+	/// @DnDVersion : 1
+	/// @DnDHash : 7F26F814
+	/// @DnDApplyTo : other
+	/// @DnDParent : 44CAC0B4
+	with(other) {
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 4DAD53E7
+		/// @DnDParent : 7F26F814
+		/// @DnDArgument : "xpos_relative" "1"
+		/// @DnDArgument : "ypos_relative" "1"
+		/// @DnDArgument : "var" "sword"
+		/// @DnDArgument : "var_temp" "1"
+		/// @DnDArgument : "objectid" "obj_sword_attack"
+		/// @DnDSaveInfo : "objectid" "obj_sword_attack"
+		var sword = instance_create_layer(x + 0, y + 0, "Instances", obj_sword_attack);
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 1170779C
+		/// @DnDParent : 7F26F814
+		/// @DnDArgument : "expr" "false"
+		/// @DnDArgument : "var" "sword.visible"
+		sword.visible = false;
+	}
+
+	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 1997C6E5
+	/// @DnDParent : 44CAC0B4
+	exit;}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 1362B03B
 /// @DnDComment : If Alarm 0 is deactivated
 /// @DnDArgument : "var" "alarm[0]"
