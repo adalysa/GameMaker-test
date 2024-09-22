@@ -23,6 +23,7 @@
     {"name":"Obj_coin","order":1,"path":"objects/Obj_coin/Obj_coin.yy",},
     {"name":"obj_collision_parent","order":2,"path":"objects/obj_collision_parent/obj_collision_parent.yy",},
     {"name":"obj_enemy_parent","order":1,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+    {"name":"obj_energy_shield","order":5,"path":"objects/obj_energy_shield/obj_energy_shield.yy",},
     {"name":"obj_gate_particles","order":1,"path":"objects/obj_gate_particles/obj_gate_particles.yy",},
     {"name":"obj_gate","order":13,"path":"objects/obj_gate/obj_gate.yy",},
     {"name":"obj_heart_pickup","order":5,"path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},

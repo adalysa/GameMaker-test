@@ -50,3 +50,10 @@ default_move_speed = move_speed;
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "star_powerup_active"
 star_powerup_active = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0EA2B42B
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "var" "shield_energy"
+shield_energy = 100;

@@ -75,6 +75,7 @@
     {"id":{"name":"obj_collision_parent","path":"objects/obj_collision_parent/obj_collision_parent.yy",},},
     {"id":{"name":"obj_editor_wall","path":"objects/obj_editor_wall/obj_editor_wall.yy",},},
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
+    {"id":{"name":"obj_energy_shield","path":"objects/obj_energy_shield/obj_energy_shield.yy",},},
     {"id":{"name":"obj_gate_particles","path":"objects/obj_gate_particles/obj_gate_particles.yy",},},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
     {"id":{"name":"obj_heart_pickup","path":"objects/obj_heart_pickup/obj_heart_pickup.yy",},},
