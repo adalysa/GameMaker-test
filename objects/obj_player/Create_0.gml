@@ -53,7 +53,7 @@ star_powerup_active = false;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 0EA2B42B
+/// @DnDHash : 4EC362AF
 /// @DnDArgument : "expr" "100"
 /// @DnDArgument : "var" "shield_energy"
 shield_energy = 100;

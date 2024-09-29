@@ -45,21 +45,21 @@ var l1148B5B3_0 = sprite_get_width(spr_hud_heart);var l1148B5B3_1 = 0;for(var 
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
-/// @DnDHash : 55284AE5
+/// @DnDHash : 16E2229A
 /// @DnDArgument : "x1" "65"
 /// @DnDArgument : "y1" "100"
 /// @DnDArgument : "x2" "260"
 /// @DnDArgument : "y2" "125"
 /// @DnDArgument : "value" "obj_player.shield_energy"
-/// @DnDArgument : "backcol" "$FF7F0C14"
+/// @DnDArgument : "backcol" "$FF2D1810"
 /// @DnDArgument : "barcol" "$00FFFFFF"
-/// @DnDArgument : "mincol" "$FF870043"
-/// @DnDArgument : "maxcol" "$FFD87320"
-draw_healthbar(65, 100, 260, 125, obj_player.shield_energy, $FF7F0C14 & $FFFFFF, $FF870043 & $FFFFFF, $FFD87320 & $FFFFFF, 0, (($FF7F0C14>>24) != 0), (($00FFFFFF>>24) != 0));
+/// @DnDArgument : "mincol" "$FF4F364B"
+/// @DnDArgument : "maxcol" "$FFA34C2F"
+draw_healthbar(65, 100, 260, 125, obj_player.shield_energy, $FF2D1810 & $FFFFFF, $FF4F364B & $FFFFFF, $FFA34C2F & $FFFFFF, 0, (($FF2D1810>>24) != 0), (($00FFFFFF>>24) != 0));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 4181CFCF
+/// @DnDHash : 3805E92B
 /// @DnDArgument : "x" "35"
 /// @DnDArgument : "y" "90"
 /// @DnDArgument : "sprite" "spr_hud_shield"
