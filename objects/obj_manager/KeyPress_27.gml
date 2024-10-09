@@ -1,7 +1,13 @@
-if(pause == false){	instance_deactivate_all(true);
+if(pause == false)
+{
+	instance_deactivate_all(true);
 
-	pause = true;}
+	pause = true;
+}
 
-else{	instance_activate_all();
+else
+{
+	instance_activate_all();
 
-	pause = false;}
+	pause = false;
+}

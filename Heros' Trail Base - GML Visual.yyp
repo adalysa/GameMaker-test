@@ -109,6 +109,7 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"seq_baddie_defeat","path":"sequences/seq_baddie_defeat/seq_baddie_defeat.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
+    {"id":{"name":"seq_pause_menu","path":"sequences/seq_pause_menu/seq_pause_menu.yy",},},
     {"id":{"name":"snd_baddie_defeated","path":"sounds/snd_baddie_defeated/snd_baddie_defeated.yy",},},
     {"id":{"name":"snd_baddie_footstep","path":"sounds/snd_baddie_footstep/snd_baddie_footstep.yy",},},
     {"id":{"name":"snd_bat_defeat","path":"sounds/snd_bat_defeat/snd_bat_defeat.yy",},},

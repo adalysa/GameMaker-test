@@ -49,6 +49,7 @@
     {"name":"rm_level_2","order":1,"path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"seq_baddie_defeat","order":1,"path":"sequences/seq_baddie_defeat/seq_baddie_defeat.yy",},
+    {"name":"seq_pause_menu","order":2,"path":"sequences/seq_pause_menu/seq_pause_menu.yy",},
     {"name":"snd_baddie_defeated","order":5,"path":"sounds/snd_baddie_defeated/snd_baddie_defeated.yy",},
     {"name":"snd_bat_defeat","order":8,"path":"sounds/snd_bat_defeat/snd_bat_defeat.yy",},
     {"name":"snd_bat_fly","order":6,"path":"sounds/snd_bat_fly/snd_bat_fly.yy",},
