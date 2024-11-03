@@ -15,3 +15,9 @@ obj_manager.pause = false;
 /// @DnDHash : 74E491C2
 /// @DnDArgument : "function" "instance_activate_all"
 instance_activate_all();
+
+/// @DnDAction : YoYo Games.Sequences.Sequence_Destroy
+/// @DnDVersion : 1
+/// @DnDHash : 6DA8C1D7
+/// @DnDArgument : "var" "obj_manager.pause_seq"
+layer_sequence_destroy(obj_manager.pause_seq);

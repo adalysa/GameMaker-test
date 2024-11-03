@@ -52,7 +52,14 @@ if(pause == false){	/// @DnDAction : YoYo Games.Common.Function_Call
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
 /// @DnDHash : 7105861B
-else{	/// @DnDAction : YoYo Games.Common.Function_Call
+else{	/// @DnDAction : YoYo Games.Sequences.Sequence_Destroy
+	/// @DnDVersion : 1
+	/// @DnDHash : 08ED2011
+	/// @DnDParent : 7105861B
+	/// @DnDArgument : "var" "pause_seq"
+	layer_sequence_destroy(pause_seq);
+
+	/// @DnDAction : YoYo Games.Common.Function_Call
 	/// @DnDVersion : 1
 	/// @DnDHash : 538E6875
 	/// @DnDParent : 7105861B
