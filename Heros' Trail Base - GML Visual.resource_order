@@ -10,6 +10,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_button","order":1,"path":"fonts/fnt_button/fnt_button.yy",},
+    {"name":"fnt_controls","order":2,"path":"fonts/fnt_controls/fnt_controls.yy",},
     {"name":"Template_Readme","order":14,"path":"notes/Template_Readme/Template_Readme.yy",},
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
     {"name":"obj_barrel_small","order":1,"path":"objects/obj_barrel_small/obj_barrel_small.yy",},
